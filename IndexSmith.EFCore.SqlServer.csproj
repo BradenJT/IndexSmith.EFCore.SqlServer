@@ -13,6 +13,8 @@
     <PackageTags>efcore;entityframework;sqlserver;index;heuristics</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <RepositoryUrl>https://github.com/BradenJT/IndexSmith.EFCore.SqlServer</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
