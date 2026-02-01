@@ -1,0 +1,1 @@
+# IndexSmith.EFCore.SqlServer
